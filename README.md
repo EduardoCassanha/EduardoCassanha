@@ -1,16 +1,39 @@
-## Hi there 👋
+# Eduardo Cassanha
 
-<!--
-**EduardoCassanha/EduardoCassanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student** focused on backend development and process automation. I build projects that solve real problems — integrating APIs, handling data, and writing clean, purposeful code.
 
-Here are some ideas to get you started:
+Currently looking for my first internship opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Will It Rain?](https://github.com/EduardoCassanha/Will-It-Rain-) | REST API that checks precipitation along your entire route, not just your destination | Python, FastAPI |
+| [SeePrices](https://github.com/EduardoCassanha/seeprices) | Real-time B3 stock price monitor with audio alerts and session logging | C#, .NET 10 |
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Stats
+
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoCassanha&show_icons=true&theme=dark&hide_border=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCassanha&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardocassanha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://cassanha.com)

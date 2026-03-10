@@ -13,6 +13,12 @@ Currently looking for my first internship opportunity.
 | [Will It Rain?](https://github.com/EduardoCassanha/Will-It-Rain-) | REST API that checks precipitation along your entire route, not just your destination | Python, FastAPI |
 | [SeePrices](https://github.com/EduardoCassanha/seeprices) | Real-time B3 stock price monitor with audio alerts and session logging | C#, .NET 10 |
 
+## Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Kyotto Sushi Bar](https://kyottosushi.cassanha.com) | Institutional landing page for a Japanese restaurant | Next.js, TypeScript |
+
 ---
 
 ## Tech Stack
